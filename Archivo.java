@@ -33,6 +33,8 @@ public class Archivo {
         this.tamaño = tamaño;
     }
 
+    // Método para mostrar la información del archivo
+
     @Override
     public String toString() {
         return "Archivo{" +
